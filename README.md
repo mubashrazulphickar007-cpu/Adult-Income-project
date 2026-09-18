@@ -194,7 +194,7 @@ This project is for educational purposes.
 
 ## 👤 Author
 
-ML Engineering Project - Adult Income Classification
+Mubashra Zulfiqar
 
 ## 🙏 Acknowledgments
 
