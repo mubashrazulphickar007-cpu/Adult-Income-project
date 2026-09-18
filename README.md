@@ -138,12 +138,14 @@ The project compares multiple models:
 - **AutoML Models**: Auto-sklearn, TPOT
 
 Performance metrics include:
-- Accuracy
-- Precision
-- Recall
-- F1 Score
-- ROC-AUC
-- Training Time
+Metric	Score
+Best Model	Gradient Boosting
+Accuracy	86.95%
+Precision	79.67%
+Recall	61.48%
+F1 Score	69.40%
+ROC-AUC	92.38%
+Train Time	4.02s
 
 ## 🚢 Deployment
 
